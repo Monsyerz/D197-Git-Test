@@ -1,4 +1,3 @@
-# Conflict tittle from master
+# Final resolved title
 Learning Git for WGU D197
-This line was added on the feature branch.
-#Title from conflict-test branch
+Practicing Git commits
